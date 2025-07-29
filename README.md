@@ -34,9 +34,12 @@ Insert Data
 ```sh
 python3 jsql_plus.py seed config.yaml
 ```
+
 Disable batching (insert one row at a time):
 ```sh
 python3 jsql.py seed config.yaml --no-batch
+```
+
 ```sh
  Drop Tables
 ```sh
