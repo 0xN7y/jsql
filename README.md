@@ -40,7 +40,7 @@ Disable batching (insert one row at a time):
 python3 jsql.py seed config.yaml --no-batch
 ```
 
-```sh
+
  Drop Tables
 ```sh
 python3 jsq.py drop config.yaml
