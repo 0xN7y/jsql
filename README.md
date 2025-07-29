@@ -1,5 +1,5 @@
----
-> jsql is a powerful tool and can be used as python library to create, seed, drop, and interact with SQL databases using clean JSON or YAML configurations or Python dictionaries directly.
+
+jsql is a powerful tool and can be used as python library to create, seed, drop, and interact with SQL databases using clean JSON or YAML configurations or Python dictionaries directly.
 
 ---
 
@@ -18,7 +18,7 @@
 
 ```sh
 pip3 install requirements.txt
-'''
+```
 
 ## CLI Usage
 
